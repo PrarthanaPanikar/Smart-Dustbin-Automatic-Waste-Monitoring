@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🗑️ Smart Dustbin — Automatic Waste Monitoring System
 
 > **An Arduino UNO based embedded system prototype that demonstrates touchless lid automation and full-bin alert detection using an HC-SR04 ultrasonic sensor, servo motor, LED, and buzzer.**
